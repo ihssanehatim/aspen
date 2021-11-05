@@ -256,7 +256,6 @@ Let's say we want to represent an Employer, and the employer's name is Kabletown
 default:
   label: Person
 ----
-...
 (Liz) [works at] (Employer, Kabletown)
 ```
 
